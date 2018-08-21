@@ -1,5 +1,5 @@
 FROM debian:stable
-MAINTAINER djinn3 <adithyakesineni@gmail.com>
+MAINTAINER sekhar1602 <rajasai1602@gmail.com>
 
 RUN apt-get update && apt-get upgrade &&  apt-get install -y apache2 telnet elinks openssh-server 
 
